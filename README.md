@@ -10,7 +10,7 @@ Hey, I'm Nomade [OMEGA Leader]
 ∙ ❤ I love python and PHP
 
 
--📊 My programming languages are: python,html,cs
+-📊 My programming languages are: python,html,c#, php
 
 **Nomade**
 https://discord.link/omegafr
