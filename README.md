@@ -1,5 +1,5 @@
 # Nomade[OMΞGΛ]
-![880105](https://cdn.discordapp.com/attachments/785556972337758229/818564135977222188/sunsetTREEK.gif)
+![880105](https://github-readme-stats-codestackr.vercel.app/api?username=Nomade7&show_icons=true&hide_border=true&theme=tokyonight)
 
 Hey, I'm Nomade [OMEGA Leader]
 
