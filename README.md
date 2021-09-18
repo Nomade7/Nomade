@@ -7,7 +7,7 @@
 
 ∙ 🔥 I don't like some programming languages ​​such as JavaScript <img src ="https://cdn.discordapp.com/attachments/888689841590636547/888692353878089749/888690008393916416.png" height="25" width="25">
 
-∙ ❤ My favorite languages are: Python <img src = "https://cdn.discordapp.com/attachments/888689841590636547/888694407157661746/888689963787513867.png" height="25" width="25"> and PHP <img src = "https://cdn.discordapp.com/attachments/888689841590636547/888694447032901642/888690052882890752.png" height="25" width="25">
+∙ ❤ My favorite languages are: Python <img src = "https://cdn.discordapp.com/attachments/888689841590636547/888694407157661746/888689963787513867.png" height="25" width="25"> and PHP <img src = "https://cdn.discordapp.com/attachments/888689841590636547/888694447032901642/888690052882890752.png" height="25" width="30">
 
 ∙ 📊 My programming languages are: python,html,c#, php, and others
 
