@@ -12,4 +12,4 @@
 ∙ 📊 My programming languages are: python,html,c#, php, and others
 
 **>_Tyranix**
-https://discord.link/omegafr
+https://www.twitch.tv/nirexondiscord
