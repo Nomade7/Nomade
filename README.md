@@ -1,4 +1,4 @@
-# >_Tyranix. <img src ="https://cdn.discordapp.com/attachments/888689841590636547/888691151585017886/888690452897865748.png" alt = "rien"/></a>
+# >_Tyranix. <a href=""><img src ="https://cdn.discordapp.com/attachments/888689841590636547/888691151585017886/888690452897865748.png" alt = "rien"/></a>
 ![880105](https://github-readme-stats.vercel.app/api?username=Nomade7)
 
 Hey, I'm Tyranix [OMEGA Leader]
