@@ -9,7 +9,7 @@
 
 ∙ ❤ My favorite languages are: Python and PHP
 
-∙ 📊 My programming languages are: python,html,c#, php, others
+∙ 📊 My programming languages are: python,html,c#, php, and others
 
 **>_Tyranix**
 https://discord.link/omegafr
