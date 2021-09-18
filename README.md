@@ -9,7 +9,6 @@ Hey, I'm Tyranix [OMEGA Leader]
 
 ∙ ❤ I love python and PHP
 
-
 ∙ 📊 My programming languages are: python,html,c#, php, others
 
 **>_Tyranix**
