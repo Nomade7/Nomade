@@ -1,7 +1,7 @@
-# Nomade[OMΞGΛ]
+# >_Tyranix.
 ![880105](https://github-readme-stats.vercel.app/api?username=Nomade7)
 
-Hey, I'm Nomade [OMEGA Leader]
+Hey, I'm Tyranix [OMEGA Leader]
 
 ∙ ⚡Developer of all kinds
 
@@ -10,7 +10,7 @@ Hey, I'm Nomade [OMEGA Leader]
 ∙ ❤ I love python and PHP
 
 
--📊 My programming languages are: python,html,c#, php
+-📊 My programming languages are: python,html,c#, php, others
 
-**Nomade**
+**>_Tyranix**
 https://discord.link/omegafr
