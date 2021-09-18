@@ -1,5 +1,5 @@
 # Nomade[OMΞGΛ]
-![880105](https://github-readme-stats-codestackr.vercel.app/api?username=Nomade7&show_icons=true&hide_border=true&theme=tokyonight)
+![880105](https://github-readme-stats.vercel.app/api?username=Nomade7)
 
 Hey, I'm Nomade [OMEGA Leader]
 
