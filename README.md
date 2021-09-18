@@ -5,7 +5,7 @@ Hey, I'm Tyranix [OMEGA Leader]
 
 ∙ ⚡Developer of all kinds
 
-∙ 🔥 I don't like some programming languages ​​such as JavaScript
+∙ 🔥 I don't like some programming languages ​​such as JavaScript <img src ="https://cdn.discordapp.com/attachments/888689841590636547/888692353878089749/888690008393916416.png" height="34" width="34">
 
 ∙ ❤ I love python and PHP
 
